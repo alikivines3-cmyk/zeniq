@@ -1,8 +1,4 @@
 
-streamlit
-requests
-gtts
-Pillow
-imageio
-imageio-ffmpeg
-numpy
+streamlit==1.40.0
+edge-tts==6.1.17
+requests==2.32.3
